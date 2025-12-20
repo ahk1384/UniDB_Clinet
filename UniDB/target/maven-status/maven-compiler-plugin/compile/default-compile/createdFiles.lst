@@ -1,0 +1,10 @@
+Shared\MessageType.class
+Shared\Request.class
+Main\ConsoleUI.class
+module-info.class
+com\example\unidb\HelloController.class
+Models\Student.class
+Storage\StudentRecord.class
+Client\UniDBClient.class
+Client\NetworkManger.class
+Shared\Response.class

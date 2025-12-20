@@ -25,6 +25,7 @@
             <version>21</version>
         </dependency>
         <dependency>
+
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-fxml</artifactId>
             <version>21</version>
@@ -66,7 +67,7 @@
                                     <mainClass>Client.UniDBClient</mainClass>
                                 </transformer>
                             </transformers>
-                            <createDependencyReducedPom>false</createDependencyReducedPom>
+                            <createDependencyReducedPom>true</createDependencyReducedPom>
                         </configuration>
                     </execution>
                 </executions>
