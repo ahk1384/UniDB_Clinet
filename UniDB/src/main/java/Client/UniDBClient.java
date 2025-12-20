@@ -61,10 +61,8 @@ public class UniDBClient {
                     ui.printBanner(response.getMessage());
                     break;
                 }
-
                 out.writeObject(new Request(MessageType.QUERY, input));
                 Response response = (Response) in.readObject();
-
                 System.out.println(response.getMessage());
             } else {
                 break;
