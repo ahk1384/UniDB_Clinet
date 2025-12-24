@@ -67,7 +67,7 @@
                                     <mainClass>Client.UniDBClient</mainClass>
                                 </transformer>
                             </transformers>
-                            <createDependencyReducedPom>true</createDependencyReducedPom>
+                            <createDependencyReducedPom>false</createDependencyReducedPom>
                         </configuration>
                     </execution>
                 </executions>
