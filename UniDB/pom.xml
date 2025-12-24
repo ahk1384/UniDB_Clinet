@@ -8,8 +8,8 @@
 
     <groupId>com.example</groupId>
     <artifactId>UniDB</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <name>UniDB</name>
+    <version>1.0</version>
+    <name>Client</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
